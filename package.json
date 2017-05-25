@@ -1,0 +1,14 @@
+{
+  "name": "chatbots-for-fun-and-profit",
+  "version": "1.0.0",
+  "description": "Demo: Chatbots for Fun and Profit",
+  "main": "index.js",
+  "dependencies": {
+    "botkit": "0.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincen Roy",
+  "license": "MIT"
+}
